@@ -1,3 +1,4 @@
+字串字元切割
 import java.util.Scanner;
 
 public class Main {
